@@ -1,9 +1,7 @@
-# Javascript Snake Game
+# Javascript Snake Game Febsstore
 ## An old-school snake game multiplayer online
 
-# ytb_snake_js 
-(original version from a youtube video linked below)
-https://youtu.be/J42SZXS-_Qo
+# snake_game_febsstore
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -22,12 +20,12 @@ https://carubbi-snake.herokuapp.com/frontend/snake.html
  
 ## Installation
 
-ytb_snake_js requires [Node.js](https://nodejs.org/) v12+ to run.
+game_snake_febsstore requires [Node.js](https://nodejs.org/) v12+ to run.
 
 Install the dependencies and start the server.
 
 ```sh
-cd ytb_snake_js 
+cd game_snake_febsstore
 npm i
 npm start
 ```
